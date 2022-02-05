@@ -15,9 +15,7 @@ johannsteinecker@gh:~$ cat johannsteinecker-github-readme
 ❤️ Added Python to favourites
 
 🧪 Running tests
-  ✔️ core module passed with a coverage of 100%
-  ✔️ configuration module passed with a coverage of 100%
-  ✔️ love module passed with a coverage of 69%
+  ✔️ thermodynamics module passed with a coverage of 100%
 
-🎂 Johann Steinecker up N runnin' on port 6969
+🎂 Johann Steinecker up N runnin' on port 8000
 ```
