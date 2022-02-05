@@ -9,11 +9,11 @@ johannsteinecker@gh:~$ make johannsteinecker-github-readme
                                                                                              v16
 ✔️ Found .steinrc
 
-💗 Added Rust to favourites
-💗 Added C to favourites
-💗 Added C++ to favourites
-💗 Added Javascript to favourites
-💗 Added Python to favourites
+❤️ Added Rust to favourites
+❤️ Added C to favourites
+❤️ Added C++ to favourites
+❤️ Added Javascript to favourites
+❤️ Added Python to favourites
 
 🧪 Running tests
   ✔️ core module passed with a coverage of 100%
