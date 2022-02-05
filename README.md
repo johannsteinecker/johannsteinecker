@@ -10,9 +10,8 @@ johannsteinecker@gh:~$ make johannsteinecker-github-readme
 ✔️ Found .steinrc
 
 ❤️ Added Rust to favourites
-❤️ Added C to favourites
 ❤️ Added C++ to favourites
-❤️ Added Javascript to favourites
+❤️ Added TypeScript to favourites
 ❤️ Added Python to favourites
 
 🧪 Running tests
