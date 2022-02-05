@@ -1,5 +1,5 @@
 ```console
-johannsteinecker@gh:~$ make johannsteinecker-github-readme
+johannsteinecker@gh:~$ cat johannsteinecker-github-readme
        _         _                             _____  _         _                     _
       | |       | |                           / ____|| |       (_)                   | |
       | |  ___  | |__    __ _  _ __   _ __   | (___  | |_  ___  _  _ __    ___   ___ | | __ ___  _ __
